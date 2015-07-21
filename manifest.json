@@ -1,0 +1,17 @@
+{
+  "name": "wishpool",
+  "description": "wishpool",
+  "author": "roman",
+  "version": "0.0.1",
+  "license": "Apache 2",
+  "controllers": {
+    "/activities": "controllers/activities.js",
+    "/users": "controllers/users.js",
+    "/groups": "controllers/groups.js"
+  },
+  "scripts": {
+    "setup": "scripts/setup.js",
+    "teardown": "scripts/teardown.js"
+  },
+  "tests": "test/**/*.js"
+}
