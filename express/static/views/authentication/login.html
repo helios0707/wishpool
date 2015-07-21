@@ -1,0 +1,23 @@
+<div class="loginForm">
+    <div class="header">Login</div>
+    <div class="row">
+        <div class="input-field col s12">
+            <input id="name" type="text" class="validate" ng-model="user.name">
+            <label for="name">User Name</label>
+        </div>
+    </div>
+    <div class="row">
+        <div class="input-field col s12">
+            <input id="password" type="password" class="validate" ng-model="user.pass">
+            <label for="password">Password</label>
+        </div>
+    </div>
+    <button class="btn waves-effect waves-light" type="submit" name="action" ng-click="signIn()">Sign in
+        <i class="material-icons"></i>
+    </button>
+    <div class="right">
+        <a href="#/register" class="waves-effect waves-teal btn-flat">New User</a>
+        <a href="#/forgetMyPassword" class="waves-effect waves-teal btn-flat">Forget My Password</a>
+    </div>
+
+</div>

@@ -1,0 +1,22 @@
+<h1>All Groups</h1>
+<div class="media group-item" ng-repeat="item in groups">
+    <div class="media-left">
+        <a href="#">
+            <img class="media-object group-image" src="imgs/group.jpeg" alt="groups">
+        </a>
+    </div>
+    <div class="media-body">
+        <h4 class="media-heading">{{ item.attributes.realName }}</h4>
+        <div class="row">
+            <div class="col-lg-10">
+                <button ng-repeat="item in item.attributes.activities" class="btn btn-primary activities-button" ng-click="likeActivity(item)" type="button">
+                    {{ item.realName }}
+                </button>
+            </div>
+            <div class="col-lg-2">
+                <button ng-if="item.attributes.userFound">Already Member</button>
+                <button ng-if="!item.attributes.userFound">Join Group</button>
+            </div>
+        </div>
+    </div>
+</div>

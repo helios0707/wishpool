@@ -1,0 +1,688 @@
+{
+  "nodes": [
+    {
+      "index": 0,
+      "id": 0,
+      "links": [6],
+      "score": 10,
+      "level": 3,
+      "label": "Berlin Outdoor Sports Adventurers",
+      "tags": [
+        "Bouldering and Rock Climbing",
+        "Recreational Sports",
+        "Ultimate Frisbee",
+        "Sports and Socials",
+        "Water Sports",
+        "Winter and Summer Sports",
+        "Outdoor Adventures",
+        "Outdoor Fitness",
+        "Outdoors",
+        "Fitness",
+        "Sports and Recreation",
+        "Beach Volleyball",
+        "Hiking",
+        "Skiing",
+        "Cycling"
+      ]
+    },
+    {
+      "index": 1,
+      "id": 1,
+      "links": [
+        3,
+        5,
+        11
+      ],
+      "score": 20,
+      "level": 3,
+      "label": "Around Berlin in 80 Restaurants",
+      "tags": [
+        "Exploring New Restaurants",
+        "Social",
+        "Dining Out",
+        "Foodie",
+        "Food Lovers in Berlin",
+        "Berlin Food",
+        "Expert",
+        "International Friends",
+        "Social Networking",
+        "Nightlife"
+      ]
+    },
+    {
+      "index": 2,
+      "id": 2,
+      "links": [
+        3,
+        5,
+        11,
+        15,
+        17,
+        22
+      ],
+      "score": 35,
+      "level": 2,
+      "label": "Berlin Internationals",
+      "tags": [
+        "Tea",
+        "Coffee",
+        "Singles",
+        "New In Town",
+        "Social Networking",
+        "Expert",
+        "Language & Culture",
+        "Social",
+        "Fun Times",
+        "Pubs and Bars",
+        "English Language",
+        "Language Exchange",
+        "Bar",
+        "International Friends",
+        "Culture Exchange"
+      ]
+    },
+    {
+      "index": 3,
+      "id": 3,
+      "links": [
+        1,
+        2,
+        5,
+        11,
+        15
+      ],
+      "score": 30,
+      "level": 1,
+      "label": "Berlin Social Activities and Events",
+      "tags": [
+        "20's & 30's Social",
+        "Social Networking",
+        "New In Town",
+        "Nightlife",
+        "German as a Second Language",
+        "Local Activities",
+        "Fun Times",
+        "Singles",
+        "Outdoors",
+        "Language & Culture",
+        "Social",
+        "Expert",
+        "Dating and Relationships"
+      ]
+    },
+    {
+      "index": 4,
+      "id": 4,
+      "links": [10],
+      "score": 10,
+      "level": 1,
+      "label": "Berlin Experts Community",
+      "tags": [
+        "Expert British",
+        "Expert European",
+        "Language & Culture",
+        "Expert Japanese",
+        "Expert Italian",
+        "Expert",
+        "Expert Chinese",
+        "Expert French",
+        "Expert Indian",
+        "Expert American",
+        "Culture Exchange",
+        "Expert German",
+        "Businesspersons and Diplomats",
+        "Culture"
+      ]
+    },
+    {
+      "index": 5,
+      "id": 5,
+      "links": [
+        1,
+        2,
+        3,
+        7,
+        11
+      ],
+      "score": 30,
+      "level": 3,
+      "label": "Berlin Culti Group: Fun, Freedom, Friendship",
+      "tags": [
+        "Travel",
+        "Adventure",
+        "Singles",
+        "Social Networking",
+        "English Language",
+        "Social",
+        "Game Night",
+        "Expert",
+        "German Language",
+        "Dating and Relationships",
+        "Dining Out",
+        "Fun Times",
+        "New In Town",
+        "Nightlife",
+        "Friends of Culti Group"
+      ]
+    },
+    {
+      "index": 6,
+      "id": 6,
+      "links": [0],
+      "score": 10,
+      "level": 1,
+      "label": "Berlin Outdoor Sports Adventurers",
+      "tags": [
+        "Bouldering and Rock Climbing",
+        "Recreational Sports",
+        "Ultimate Frisbee",
+        "Sports and Socials",
+        "Water Sports",
+        "Winter and Summer Sports",
+        "Outdoor Adventures",
+        "Outdoor Fitness",
+        "Outdoors",
+        "Fitness",
+        "Sports and Recreation",
+        "Beach Volleyball",
+        "Hiking",
+        "Skiing",
+        "Cycling"
+      ]
+    },
+    {
+      "index": 7,
+      "id": 7,
+      "links": [5],
+      "score": 10,
+      "level": 3,
+      "label": "spontaneous in Berlin",
+      "tags": [
+        "Spontaneous Meetups",
+        "Spontaneous Creations",
+        "Art Galleries",
+        "Performing Arts",
+        "Outdoors",
+        "Social",
+        "Dining Out",
+        "Theater",
+        "Nightlife",
+        "Fun Times",
+        "Adventure",
+        "Game Night",
+        "Anything",
+        "Recreational Sports",
+        "Trying New Things",
+        "Spontaneous Fun",
+        "Art Museums"
+      ]
+    },
+    {
+      "index": 8,
+      "id": 8,
+      "links": [],
+      "score": 5,
+      "level": 1,
+      "label": "Berlin Outdoor Explorer",
+      "tags": [
+        "Mountain Biking",
+        "Hiking Biking Trekking Camping in the Outdoors",
+        "Road Cycling",
+        "Cycling",
+        "Womens Mountain Biking",
+        "Walking Cycling for Fitness",
+        "Cycling for Fitness",
+        "Bicycling",
+        "Long Distance Cycling"
+      ]
+    },
+    {
+      "index": 9,
+      "id": 9,
+      "links": [],
+      "score": 5,
+      "level": 1,
+      "label": "Internationals in Berlin",
+      "tags": [
+        "Musicians",
+        "Outdoors",
+        "Dining Out",
+        "Artists",
+        "Coffee",
+        "Expert British",
+        "Expert American",
+        "Expert",
+        "Expert French",
+        "Expert Canadian",
+        "Expert Italian",
+        "Recreational Sports",
+        "Expert Spanish",
+        "Architecture",
+        "International Friends",
+        "Foodie",
+        "Writing",
+        "Wine"
+      ]
+    },
+    {
+      "index": 10,
+      "id": 10,
+      "links": [4],
+      "score": 10,
+      "level": 3,
+      "label": "Berlin Experts community",
+      "tags": [
+        "Expert British",
+        "Expert European",
+        "Language & Culture",
+        "Expert Japanese",
+        "Expert Italian",
+        "Expert",
+        "Expert Chinese",
+        "Expert French",
+        "Expert Indian",
+        "Expert American",
+        "Culture Exchange",
+        "Expert German",
+        "Businesspersons and Diplomats",
+        "Culture"
+      ]
+    },
+    {
+      "index": 11,
+      "id": 11,
+      "links": [
+        1,
+        2,
+        3,
+        5,
+        15,
+        22
+      ],
+      "score": 35,
+      "level": 3,
+      "label": "Berlin Experts",
+      "tags": [
+        "Fun Times",
+        "Expert",
+        "International Friends",
+        "New In Town",
+        "Culture Exchange",
+        "Adventure",
+        "Social Networking",
+        "20's & 30's Social",
+        "Social",
+        "Pubs and Bars",
+        "Singles",
+        "Partying",
+        "Live Music",
+        "Nightlife",
+        "Dining Out"
+      ]
+    },
+    {
+      "index": 12,
+      "id": 12,
+      "links": [],
+      "score": 5,
+      "level": 3,
+      "label": "Activities in and around Berlin",
+      "tags": [
+        "Exploring New Restaurants",
+        "A chat & a drink",
+        "table football",
+        "clubbing and dancing",
+        "Billiard",
+        "Dining Out",
+        "Meeting friends after work"
+      ]
+    },
+    {
+      "index": 13,
+      "id": 13,
+      "links": [],
+      "score": 5,
+      "level": 3,
+      "label": "Start (up) running!",
+      "tags": [
+        "Entrepreneurship",
+        "Wellness",
+        "Nutrition",
+        "Self-Improvement",
+        "Fitness",
+        "Marathon",
+        "Running",
+        "Jogging",
+        "Exercise",
+        "Group Fitness Training",
+        "Outdoor Fitness",
+        "Healthy Living",
+        "Long Distance Running",
+        "Founders",
+        "Managers",
+        "Startup Businesses"
+      ]
+    },
+    {
+      "index": 14,
+      "id": 14,
+      "links": [
+        2,
+        3,
+        11,
+        22
+      ],
+      "score": 25,
+      "level": 2,
+      "label": "Berlin Hikers",
+      "tags": [
+        "Hiking",
+        "Walking",
+        "Adventure",
+        "Active",
+        "Outdoors",
+        "Trekking"
+      ]
+    },
+    {
+      "index": 15,
+      "id": 15,
+      "links": [],
+      "score": 5,
+      "level": 2,
+      "label": "New In Berlin Meetup & Networking",
+      "tags": [
+        "Expert British",
+        "Expertriates",
+        "New In Town: Social",
+        "Singles",
+        "New In Town",
+        "International and Exchange Students",
+        "Nightlife",
+        "Social Networking",
+        "Expert",
+        "Women's Social",
+        "Language & Culture",
+        "Professional Networking",
+        "Startup Businesses",
+        "International Friends",
+        "Culture Exchange"
+      ]
+    },
+    {
+      "index": 16,
+      "id": 16,
+      "links": [],
+      "score": 5,
+      "level": 1,
+      "label": "German Storytelling Community",
+      "tags": [
+        "Entrepreneur Networking",
+        "Startup Businesses",
+        "Startup Pitching",
+        "Elevator Pitching for Entrepreneurs",
+        "Entrepreneurship",
+        "Small Business",
+        "Small Business Marketing Strategy",
+        "Communication Skills",
+        "Social Networking",
+        "Writing",
+        "Telling Your Story",
+        "Self-Improvement",
+        "Marketing",
+        "Storytelling"
+      ]
+    },
+    {
+      "index": 17,
+      "id": 17,
+      "links": [
+        2,
+        19,
+        20,
+        21
+      ],
+      "score": 25,
+      "level": 3,
+      "label": "English/German Exchange with Language Games",
+      "tags": [
+        "German Culture",
+        "Social",
+        "English as a Second Language",
+        "Language & Culture",
+        "Conversation",
+        "berlin",
+        "English Language",
+        "Language Exchange",
+        "German Language",
+        "Culture Exchange",
+        "Deutsch",
+        "German Conversation"
+      ]
+    },
+    {
+      "index": 18,
+      "id": 18,
+      "links": [],
+      "score": 5,
+      "level": 3,
+      "label": "Berlin Comedy in English",
+      "tags": [
+        "English as a Second Language",
+        "Performing Arts",
+        "Comedy",
+        "Theater",
+        "Stand-Up Comedy",
+        "Music",
+        "Social",
+        "English Speakers",
+        "Improv",
+        "English Language",
+        "English Grammar Skills"
+      ]
+    },
+    {
+      "index": 19,
+      "id": 19,
+      "links": [
+        17,
+        20
+      ],
+      "score": 15,
+      "level": 2,
+      "label": "Deutsch by doing - Berlin",
+      "tags": [
+        "German Culture",
+        "German Conversation",
+        "Culture Exchange",
+        "Creative Language Learning",
+        "German Language and Culture",
+        "German Language",
+        "Learn German",
+        "Deutsch",
+        "German as a Second Language",
+        "Apprendre l'allemand"
+      ]
+    },
+    {
+      "index": 20,
+      "id": 20,
+      "links": [
+        17,
+        19
+      ],
+      "score": 15,
+      "level": 1,
+      "label": "German Conversation Group in Berlin",
+      "tags": [
+        "German Language",
+        "German Culture",
+        "German Conversation",
+        "Deutsch",
+        "German as a Second Language",
+        "German Language and Culture",
+        "Deutsche Gruppe"
+      ]
+    },
+    {
+      "index": 21,
+      "id": 21,
+      "links": [17],
+      "score": 10,
+      "level": 1,
+      "label": "English Conversation Club Berlin",
+      "tags": [
+        "English as a Second Language",
+        "English Language",
+        "Conversation",
+        "ESL practice",
+        "ESL Conversation Classes"
+      ]
+    },
+    {
+      "index": 22,
+      "id": 22,
+      "links": [
+        2,
+        11,
+        15
+      ],
+      "score": 20,
+      "level": 2,
+      "label": "International Events Berlin",
+      "tags": [
+        "Language Exchange",
+        "Social",
+        "International Friends",
+        "English Language",
+        "Professional Networking",
+        "Singles",
+        "New In Town: Social",
+        "Women's Social",
+        "Housing",
+        "Culture Exchange",
+        "Expert",
+        "Community Organizations",
+        "International Travel",
+        "Global Citizenship"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "source": 0,
+      "target": 6,
+      "weight": 0.28406095691025257
+    },
+    {
+      "source": 1,
+      "target": 3,
+      "weight": 0.4099003749433905
+    },
+    {
+      "source": 1,
+      "target": 5,
+      "weight": 0.6667063874192536
+    },
+    {
+      "source": 1,
+      "target": 11,
+      "weight": 0.7547086321283132
+    },
+    {
+      "source": 2,
+      "target": 3,
+      "weight": 0.09301757300272584
+    },
+    {
+      "source": 2,
+      "target": 5,
+      "weight": 0.9471296172123402
+    },
+    {
+      "source": 2,
+      "target": 11,
+      "weight": 0.7487616539001465
+    },
+    {
+      "source": 2,
+      "target": 15,
+      "weight": 0.2010596098843962
+    },
+    {
+      "source": 2,
+      "target": 17,
+      "weight": 0.13397996150888503
+    },
+    {
+      "source": 2,
+      "target": 22,
+      "weight": 0.5735100482124835
+    },
+    {
+      "source": 3,
+      "target": 5,
+      "weight": 0.588300998089835
+    },
+    {
+      "source": 3,
+      "target": 11,
+      "weight": 0.8953897561877966
+    },
+    {
+      "source": 3,
+      "target": 15,
+      "weight": 0.9667759076692164
+    },
+    {
+      "source": 4,
+      "target": 10,
+      "weight": 0.023466170066967607
+    },
+    {
+      "source": 5,
+      "target": 7,
+      "weight": 0.007576266536489129
+    },
+    {
+      "source": 5,
+      "target": 11,
+      "weight": 0.6955802184529603
+    },
+    {
+      "source": 11,
+      "target": 15,
+      "weight": 0.6951447448227555
+    },
+    {
+      "source": 11,
+      "target": 22,
+      "weight": 0.7250557586085051
+    },
+    {
+      "source": 14,
+      "target": 22,
+      "weight": 0.15754530671983957
+    },
+    {
+      "source": 17,
+      "target": 19,
+      "weight": 0.4886428816244006
+    },
+    {
+      "source": 17,
+      "target": 20,
+      "weight": 0.25985024543479085
+    },
+    {
+      "source": 17,
+      "target": 21,
+      "weight": 0.08424097765237093
+    },
+    {
+      "source": 19,
+      "target": 20,
+      "weight": 0.5052294756751508
+    }
+  ]
+}

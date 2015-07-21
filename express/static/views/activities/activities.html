@@ -1,0 +1,30 @@
+
+    <div class="page-header">
+        <h1>All Activities</h1>
+    </div>
+<div class="BubbleContainer">
+
+</div>
+
+
+    <div class="col-lg-offset-6 col-lg-6">
+    <div class="input-group">
+        <input type="text" class="form-control" placeholder="filter" ng-model="activityFilter">
+      <span class="input-group-btn">
+        <button class="btn btn-default" type="button">Go!</button>
+      </span>
+    </div>
+    <!-- /input-group -->
+</div><!-- /.col-lg-6 -->
+<div>
+    <div class="alert alert-info" role="alert">Click on Any activity to like</div>
+    <div ng-if="showLikedActivityAlert" class="alert alert-danger alert-dismissible" role="alert">
+        <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span
+                aria-hidden="true">&times;</span></button>
+        <strong>Warning!</strong> You already liked this activity before, check your activities
+    </div>
+    <button ng-repeat="item in activities | filter : activityFilter" class="btn btn-primary activities-button"
+            ng-click="likeActivity(item)" type="button">
+        {{ item.realName }} <span class="badge">{{ item.likes }}</span>
+    </button>
+</div>

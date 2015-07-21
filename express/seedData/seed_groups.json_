@@ -1,0 +1,117 @@
+[	
+	{
+		"_key": "0",
+		"name":"Berlin Outdoor Sports Adventurers",		
+		"aboutUs" : ["Bouldering and Rock Climbing", "Recreational Sports", "Ultimate Frisbee", "Sports and Socials", "Water Sports", "Winter and Summer Sports", "Outdoor Adventures", "Outdoor Fitness", "Outdoors", "Fitness", "Sports and Recreation", "Beach Volleyball", "Hiking", "Skiing", "Cycling"]
+	},
+	{
+		"_key": "1",
+		"name":"Around Berlin in 80 Restaurants",		
+		"aboutUs" : ["Exploring New Restaurants", "Social", "Dining Out", "Foodie", "Food Lovers in Berlin", "Berlin Food", "Expert", "International Friends", "Social Networking", "Nightlife"]
+	},
+	{
+		"_key": "2",
+		"name":"Berlin Internationals",		
+		"aboutUs" : ["Tea", "Coffee", "Singles", "New In Town", "Social Networking", "Expert", "Language & Culture", "Social", "Fun Times", "Pubs and Bars", "English Language", "Language Exchange", "Bar", "International Friends", "Culture Exchange"]
+	},
+	{
+		"_key": "3",
+		"name":"Berlin Social Activities and Events",		
+		"aboutUs" : ["20's & 30's Social", "Social Networking", "New In Town", "Nightlife", "German as a Second Language", "Local Activities", "Fun Times", "Singles", "Outdoors", "Language & Culture", "Social", "Expert", "Dating and Relationships"]
+	},
+	{
+		"_key": "4",
+		"name":"Berlin Experts Community",		
+		"aboutUs" : ["Expert British", "Expert European", "Language & Culture", "Expert Japanese", "Expert Italian", "Expert", "Expert Chinese", "Expert French", "Expert Indian", "Expert American", "Culture Exchange", "Expert German", "Businesspersons and Diplomats", "Culture"]
+	},
+	{
+		"_key": "5",
+		"name":"Berlin Culti Group: Fun, Freedom, Friendship",		
+		"aboutUs" : ["Travel", "Adventure", "Singles", "Social Networking", "English Language", "Social", "Game Night", "Expert", "German Language", "Dating and Relationships", "Dining Out", "Fun Times", "New In Town", "Nightlife", "Friends of Culti Group"]
+	},
+	{
+		"_key": "6",
+		"name":"Berlin Outdoor Sports Adventurers",		
+		"aboutUs" : ["Bouldering and Rock Climbing", "Recreational Sports", "Ultimate Frisbee", "Sports and Socials", "Water Sports", "Winter and Summer Sports", "Outdoor Adventures", "Outdoor Fitness", "Outdoors", "Fitness", "Sports and Recreation", "Beach Volleyball", "Hiking", "Skiing", "Cycling"]
+	},
+	{
+		"_key": "7",
+		"name":"spontaneous in Berlin",		
+		"aboutUs" : ["Spontaneous Meetups", "Spontaneous Creations", "Art Galleries", "Performing Arts", "Outdoors", "Social", "Dining Out", "Theater", "Nightlife", "Fun Times", "Adventure", "Game Night", "Anything", "Recreational Sports", "Trying New Things", "Spontaneous Fun", "Art Museums"]
+	},
+	{
+		"_key": "8",
+		"name":"Berlin Outdoor Explorer",		
+		"aboutUs" : ["Mountain Biking", "Hiking Biking Trekking Camping in the Outdoors", "Road Cycling", "Cycling", "Womens Mountain Biking", "Walking Cycling for Fitness", "Cycling for Fitness", "Bicycling", "Long Distance Cycling"]
+	},
+	{
+		"_key": "9",
+		"name":"Internationals in Berlin",		
+		"aboutUs" : ["Musicians", "Outdoors", "Dining Out", "Artists", "Coffee", "Expert British", "Expert American", "Expert", "Expert French", "Expert Canadian", "Expert Italian", "Recreational Sports", "Expert Spanish", "Architecture", "International Friends", "Foodie", "Writing", "Wine"]
+	},
+	{
+		"_key": "10",
+		"name":"Berlin Experts community",		
+		"aboutUs" : ["Expert British", "Expert European", "Language & Culture", "Expert Japanese", "Expert Italian", "Expert", "Expert Chinese", "Expert French", "Expert Indian", "Expert American", "Culture Exchange", "Expert German", "Businesspersons and Diplomats", "Culture"]
+	},
+	{
+		"_key": "11",
+		"name":"Berlin Experts",		
+		"aboutUs" : ["Fun Times", "Expert", "International Friends", "New In Town", "Culture Exchange", "Adventure", "Social Networking", "20's & 30's Social", "Social", "Pubs and Bars", "Singles", "Partying", "Live Music", "Nightlife", "Dining Out"]
+	},
+	{
+		"_key": "12",
+		"name":"Activities in and around Berlin",		
+		"aboutUs" : ["Exploring New Restaurants", "A chat & a drink", "table football", "clubbing and dancing", "Billiard", "Dining Out", "Meeting friends after work"]
+	},
+	{
+		"_key": "13",
+		"name":"Start (up) running!",		
+		"aboutUs" : ["Entrepreneurship", "Wellness", "Nutrition", "Self-Improvement", "Fitness", "Marathon", "Running", "Jogging", "Exercise", "Group Fitness Training", "Outdoor Fitness", "Healthy Living", "Long Distance Running", "Founders", "Managers", "Startup Businesses"]
+	},
+	{
+		"_key": "14",
+		"name":"Berlin Hikers",		
+		"aboutUs" : ["Hiking", "Walking", "Adventure", "Active", "Outdoors", "Trekking"]
+	},
+	{
+		"_key": "15",
+		"name":"New In Berlin Meetup & Networking",		
+		"aboutUs" : ["Expert British", "Expertriates", "New In Town: Social", "Singles", "New In Town", "International and Exchange Students", "Nightlife", "Social Networking", "Expert", "Women's Social", "Language & Culture", "Professional Networking", "Startup Businesses", "International Friends", "Culture Exchange"]
+	},
+	{
+		"_key": "16",
+		"name":"German Storytelling Community",		
+		"aboutUs" : ["Entrepreneur Networking", "Startup Businesses", "Startup Pitching", "Elevator Pitching for Entrepreneurs", "Entrepreneurship", "Small Business", "Small Business Marketing Strategy", "Communication Skills", "Social Networking", "Writing", "Telling Your Story", "Self-Improvement", "Marketing", "Storytelling"]
+	},
+	{
+		"_key": "17",
+		"name":"English/German Exchange with Language Games",		
+		"aboutUs" : ["German Culture", "Social", "English as a Second Language", "Language & Culture", "Conversation", "berlin", "English Language", "Language Exchange", "German Language", "Culture Exchange", "Deutsch", "German Conversation"]
+	},
+	{
+		"_key": "18",
+		"name":"Berlin Comedy in English",		
+		"aboutUs" : ["English as a Second Language", "Performing Arts", "Comedy", "Theater", "Stand-Up Comedy", "Music", "Social", "English Speakers", "Improv", "English Language", "English Grammar Skills"]
+	},
+	{
+		"_key": "19",
+		"name":"Deutsch by doing - Berlin",		
+		"aboutUs" : ["German Culture", "German Conversation", "Culture Exchange", "Creative Language Learning", "German Language and Culture", "German Language", "Learn German", "Deutsch", "German as a Second Language", "Apprendre l'allemand"]
+	},
+	{
+		"_key": "20",
+		"name":"German Conversation Group in Berlin",		
+		"aboutUs" : ["German Language", "German Culture", "German Conversation", "Deutsch", "German as a Second Language", "German Language and Culture", "Deutsche Gruppe"]
+	},
+	{
+		"_key": "21",
+		"name":"English Conversation Club Berlin",		
+		"aboutUs" : ["English as a Second Language", "English Language", "Conversation", "ESL practice", "ESL Conversation Classes"]
+	},
+	{
+		"_key": "22",
+		"name":"International Events Berlin",		
+		"aboutUs" : ["Language Exchange", "Social", "International Friends", "English Language", "Professional Networking", "Singles", "New In Town: Social", "Women's Social", "Housing", "Culture Exchange", "Expert", "Community Organizations", "International Travel", "Global Citizenship"]
+	}
+]

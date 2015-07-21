@@ -1,0 +1,33 @@
+<h1>Add New Group</h1>
+<form class="form-horizontal">
+    <div class="form-group">
+        <label for="groupName" class="col-sm-2 control-label">Group Name</label>
+
+        <div class="col-sm-10">
+            <input type="text" class="form-control" id="groupName" placeholder="Group Name"
+                   ng-model="newGroupModel.groupName">
+        </div>
+    </div>
+    <div class="form-group">
+        <label for="activity" class="control-label">Activities</label>
+        <div mass-autocomplete>
+            <input type="text" id="activity" class="form-control" placeholder="Select Activity"
+                   ng-model="dirty.selected_tag" mass-autocomplete-item="ac_option_activity_select">
+        </div>
+        <div class="list-unstyled">
+            <span ng-repeat="activity in newGroupModel.activities track by $index">
+                <div class="badge activityBadge">{{ activity.realName }}</div>
+            </span>
+        </div>
+    </div>
+    <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+            <button type="submit" class="btn btn-default" ng-click="addNewGroup()">Add New Group</button>
+        </div>
+    </div>
+</form>
+<div ng-if="createGroupError" class="alert alert-danger alert-dismissible" role="alert">
+    <button type="button" class="close" data-dismiss="alert" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+    <strong>Warning!</strong> {{ createGroupError }}
+</div>
+<div ng-if="createGroupSuccess" class="alert alert-success" role="alert">Your Group Created Successfully</div>

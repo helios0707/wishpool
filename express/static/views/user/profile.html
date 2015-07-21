@@ -1,0 +1,15 @@
+<div class="row">
+    <div class="col-lg-6">
+        <h2>My Activities</h2>
+        <div >
+            <button ng-repeat="item in activities | filter : activityFilter" class="btn btn-primary activities-button"  type="button">
+                {{ item.realName }}
+            </button>
+        </div>
+    </div><div class="col-lg-6">
+        <h2>My Groups</h2>
+        <div >
+            Groups
+        </div>
+    </div>
+</div>
